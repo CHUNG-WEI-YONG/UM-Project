@@ -1,2 +1,5 @@
 ## this is a hello text
-adding this to 'feature-branch'
+## Welcome to git
+this is  the way I learn git at youtube
+this is coming from natalie
+
